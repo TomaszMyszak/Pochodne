@@ -1,0 +1,15 @@
+C:\Users\tmysz\Downloads\Pochodne\bin\Debug\net7.0\Pochodne.exe
+C:\Users\tmysz\Downloads\Pochodne\bin\Debug\net7.0\Pochodne.deps.json
+C:\Users\tmysz\Downloads\Pochodne\bin\Debug\net7.0\Pochodne.runtimeconfig.json
+C:\Users\tmysz\Downloads\Pochodne\bin\Debug\net7.0\Pochodne.dll
+C:\Users\tmysz\Downloads\Pochodne\bin\Debug\net7.0\Pochodne.pdb
+C:\Users\tmysz\Downloads\Pochodne\obj\Debug\net7.0\Pochodne.csproj.AssemblyReference.cache
+C:\Users\tmysz\Downloads\Pochodne\obj\Debug\net7.0\Pochodne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tmysz\Downloads\Pochodne\obj\Debug\net7.0\Pochodne.AssemblyInfoInputs.cache
+C:\Users\tmysz\Downloads\Pochodne\obj\Debug\net7.0\Pochodne.AssemblyInfo.cs
+C:\Users\tmysz\Downloads\Pochodne\obj\Debug\net7.0\Pochodne.csproj.CoreCompileInputs.cache
+C:\Users\tmysz\Downloads\Pochodne\obj\Debug\net7.0\Pochodne.dll
+C:\Users\tmysz\Downloads\Pochodne\obj\Debug\net7.0\refint\Pochodne.dll
+C:\Users\tmysz\Downloads\Pochodne\obj\Debug\net7.0\Pochodne.pdb
+C:\Users\tmysz\Downloads\Pochodne\obj\Debug\net7.0\Pochodne.genruntimeconfig.cache
+C:\Users\tmysz\Downloads\Pochodne\obj\Debug\net7.0\ref\Pochodne.dll
